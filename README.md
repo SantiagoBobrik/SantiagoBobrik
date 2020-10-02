@@ -1,7 +1,11 @@
 
-<img src="https://i.imgur.com/npKt6xa.gif?noredirect" width="100%" > 
+<img
+  src="https://i.imgur.com/npKt6xa.gif?noredirect"
+  style="display: block; margin-left: auto; margin-right: auto; width: 50%"
+/>
 <!--
 **SantiagoBobrik/SantiagoBobrik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
