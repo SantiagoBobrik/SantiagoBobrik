@@ -17,7 +17,7 @@
 
 - 🔍 **[spec-viewer](https://github.com/SantiagoBobrik/spec-viewer)** - Spec-driven development spec viewer built in Go
 - 🏠 **[iot-home-exporter](https://github.com/SantiagoBobrik/iot-home-exporter)** - IoT home metrics exporter in Go
-- ✏️ **[markvim](https://github.com/SantiagoBobrik/markvim)** / **[markvim-api](https://github.com/SantiagoBobrik/markvim-api)** - Web-based Markdown editor with Vim keybindings and sharing
+- ✏️ **[markvim](https://github.com/SantiagoBobrik/markvim)** - Web-based Markdown editor with Vim keybindings and sharing
 - 🏎️ **[Datatc](https://datatc.org)** - Data analytics platform for Argentina's top racing car series
 - 🟣 **[twitch-points-clicker](https://github.com/SantiagoBobrik/twitch-points-clicker)** - Auto-click Twitch channel points
 
