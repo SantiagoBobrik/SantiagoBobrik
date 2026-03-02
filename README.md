@@ -13,6 +13,7 @@
 
 ## Projects
 
+- 🔔 **[agent-pulse](https://github.com/SantiagoBobrik/agent-pulse)** - Local event gateway for AI code agents, centrally managing lifecycle events from multiple AI assistants
 - 🔍 **[spec-viewer](https://github.com/SantiagoBobrik/spec-viewer)** - Spec-driven development spec viewer built in Go
 - 🏠 **[iot-home-exporter](https://github.com/SantiagoBobrik/iot-home-exporter)** - IoT home metrics exporter in Go
 - ✏️ **[markvim](https://github.com/SantiagoBobrik/markvim)** - Web-based Markdown editor with Vim keybindings and sharing
