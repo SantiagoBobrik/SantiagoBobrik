@@ -19,6 +19,7 @@
 - ✏️ **[markvim](https://github.com/SantiagoBobrik/markvim)** - Web-based Markdown editor with Vim keybindings and sharing
 - 🏎️ **[Datatc](https://datatc.org)** - Data analytics platform for Argentina's top racing car series
 - 🟣 **[twitch-points-clicker](https://github.com/SantiagoBobrik/twitch-points-clicker)** - Auto-click Twitch channel points
+- 🎨 **[patina-colors](https://github.com/SantiagoBobrik/patina-colors)** - Muted, earthy dark theme for VS Code
 
 ### Archived
 
